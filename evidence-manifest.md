@@ -1,4 +1,4 @@
-# Post Fiat Evidence Manifest Guide
+# Evidence Manifest v1
 
 > A reusable proof packet that makes human work reviewable, comparable, privacy-safe, and reusable across the network.
 
