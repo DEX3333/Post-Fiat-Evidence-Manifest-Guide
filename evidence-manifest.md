@@ -8,7 +8,7 @@ The Post Fiat Evidence Manifest is a reusable proof structure for Task Node subm
 
 Its purpose is to make completed work easier to review, compare, verify, and reuse across the network.
 
-The manifest does not replace judgment. It gives reviewers a consistent way to understand:
+The manifest does not replace judgment. It provides consistency.
 
 - What the contributor claims they did
 - What evidence supports the claim
